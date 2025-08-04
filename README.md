@@ -1,8 +1,8 @@
 # @Mention - Smart File References for VS Code
 
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/Akash-nath29/Mention)
-[![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/akashnath.mention?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=akashnath.mention)
-[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/akashnath.mention?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=akashnath.mention)
+[![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/nathakash.mention?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=nathakash.mention)
+[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/nathakash.mention?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=nathakash.mention)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 > Transform your code comments into interactive documentation with clickable file references and rich previews.
